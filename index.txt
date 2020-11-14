@@ -1,0 +1,43 @@
+./UTEC/books/Sofware Engineering2/uml 2 toolkit.pdf
+./go/pkg/mod/github.com/klauspost/compress@v1.10.10/snappy/testdata/paper-100k.pdf
+./go/pkg/mod/github.com/klauspost/compress@v1.10.9/snappy/testdata/paper-100k.pdf
+./develop/ada-labs/problem-set-cache-and-parallel-herlessjap/ada_problem_set2.pdf
+./develop/ada-labs/final-project-herlessjap/B_Tree.pdf
+./develop/atalaya/server/uploads/256057724.pdf
+./culqi/st-admin/public/static/contrato-culki.pdf
+./culqi/onboarding/st-ffvv/dist/files/Contrato Culqi Merchants.pdf
+./culqi/onboarding/st-ffvv/dist/files/190923 Política de privacidad de datos.pdf
+./culqi/onboarding/st-ffvv/public/files/Contrato Culqi Merchants.pdf
+./culqi/onboarding/st-ffvv/public/files/190923 Política de privacidad de datos.pdf
+./Library/Mobile Documents/com~apple~CloudDocs/Documents/Culqi docs/Ficha de Datos Personales-CULQI.pdf
+./Library/Mobile Documents/com~apple~CloudDocs/Documents/Culqi docs/CertificadoAntecedesPenales.pdf
+./Library/Mobile Documents/com~apple~CloudDocs/Documents/Culqi docs/CARTA AUTORIZACIÓN DE PAGO HABERES.pdf
+./Library/Mobile Documents/com~apple~CloudDocs/Documents/Culqi docs/certificadoCerap.pdf
+./Library/Mobile Documents/com~apple~CloudDocs/Documents/Culqi docs/PACIFICO EPS - SOLICITUD DE AFILIACION EM.pdf
+./Library/Mobile Documents/com~apple~CloudDocs/Documents/Culqi docs/copia_dni.pdf
+./Library/Mobile Documents/com~apple~CloudDocs/Documents/Culqi docs/CONTRATO DE TRABAJO A PLAZO DETERMINADO_ Herless Alvarado.pdf
+./Library/Mobile Documents/com~apple~CloudDocs/Documents/CERTIFICADO_DIGITAL.pdf
+./Library/Mobile Documents/com~apple~CloudDocs/Documents/Interview Resources/Designing.DataIntensive.Applications.pdf
+./Library/Mobile Documents/com~apple~CloudDocs/Documents/Interview Resources/Cracking_the_Coding_Interview_6th_Editio.pdf
+./Library/Mobile Documents/com~apple~CloudDocs/Documents/FICHA_DE_INSCRIPCION_SEMINARIO CHINA V1.pdf
+./Library/Mobile Documents/com~apple~CloudDocs/Documents/0000036099.pdf
+./.gradle/wrapper/dists/gradle-5.6.2-all/9st6wgf78h16so49nn74lgtbb/gradle-5.6.2/docs/userguide/userguide.pdf
+./.gradle/wrapper/dists/gradle-5.6.2-all/9st6wgf78h16so49nn74lgtbb/gradle-5.6.2/samples/userguide/files/copy/kotlin/src/docs/manual.pdf
+./.gradle/wrapper/dists/gradle-5.6.2-all/9st6wgf78h16so49nn74lgtbb/gradle-5.6.2/samples/userguide/files/copy/groovy/src/docs/manual.pdf
+./UTEC/books/ADA/Introduction to Algorithms - 3rd Edition.pdf
+./UTEC/books/ADA/Robert Sedgewick_ Philippe Flajolet - An introduction to the analysis of algorithms-Addison-Wesley (2013).pdf
+./UTEC/books/ADA/Robert Sedgewick, Kevin Wayne - Algorithms, 4th Edition_ Essential Information about Algorithms and Data Structures-Addison-Wesley (2011).pdf
+./UTEC/books/Sofware Engineering/uml 2 toolkit.pdf
+./UTEC/books/DB II/File_Structures_An_Object-Oriented_Appro.pdf
+./UTEC/books/OS/Modern Operating Systems 4th Edition--Andrew Tanenbaum.pdf
+./UTEC/books/OS/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf
+./Downloads/PC-diapos-1.pdf
+./Downloads/AntecedentesPenales_HerlessAlvarado.pdf
+./Downloads/PC-diapos-3.pdf
+./Downloads/PC-diapos-2.pdf
+./Downloads/Lab2 - Herless Alvarado.pdf
+./Downloads/Guide to Competitive Programming Learning and Improving Algorithms Through Contests ( PDFDrive.com ).pdf
+./Downloads/Oferta de trabajo - Herless Alvarado.pdf
+./Downloads/Management Information Systems Managing the Digital Firm by Kenneth C. Laudon.pdf
+./Downloads/Herless_Resume_EN.pdf
+./UTEC/books/Sofware Engineering1/uml 2 toolkit.pdf
